@@ -9,11 +9,11 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup 
 from myrogram import notJoin , forceMe , STARTER , BOTBY
 
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("7422725560:AAFYXa4vSzyVugWDM7o3_YHpl6U9PtOTOag", "")
 
-API_ID = int(os.environ.get("API_ID", ))
+API_ID = int(os.environ.get("22946135", ))
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("93e1b0c387cabe34a3ccfa1724ae8527", "")
 
 app = Client(
         "pdf",
